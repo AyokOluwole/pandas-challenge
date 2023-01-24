@@ -1,0 +1,22 @@
+Written Report (15 points) – Ayokunle Oluwole 
+
+To receive all points, the written report presents a cohesive written 
+analysis that:
+•	Summarizes the analysis (5 points)
+•	Draws two correct conclusions or comparisons from the calculations 
+(10 points)
+
+In this challenge, I am the new Chief Data Scientist helping the school 
+board and the mayor make strategic decisions regarding future school 
+budgets and priorities. Using Jupyter notebook, data manipulation was easy 
+as it allowed me to see each result and help make decisions/analyses based 
+on those results. From the results, Charter did exceptionally well in each 
+category outdoing the Districts schools. Most notably, the % Overall 
+Passing with Charter is at 90.432244 and Districts is at 53.672208. Aside 
+from that, the top 5 Highest-Performing Schools are all Charter while the 
+lowest are all Districts. When we compare the "Spending Ranges (Per 
+Student)", the smaller/medium-sized schools (Charter) have less and still 
+performed better than the larger-sized schools. Also, each school did 
+better regarding the % Passing Reading as it was higher than the % Passing 
+Math, which was consistently low across each metric.
+
